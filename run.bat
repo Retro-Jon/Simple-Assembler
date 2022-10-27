@@ -1,0 +1,1 @@
+bin\test.exe Test\src\main.asm bin\test.img
